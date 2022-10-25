@@ -1,0 +1,105 @@
+/*Anodina Font imported*/
+@font-face {
+    font-family: 'AnodinaRegular';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaBold';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaBoldItalic';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'AnodinaExtraBold';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-ExtraBold.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaExtraLight';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-ExtraLight.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaExtraLightItalic';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-ExtraLightItalic.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaLight';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-Light.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaLightItalic';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-LightItalic.woff") format("woff");
+}
+@font-face {
+    font-family: 'AnodinaRegularItalic';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/anodina/Anodina-RegularItalic.woff") format("woff");
+}
+
+
+/*addictive font import*/
+@font-face {
+    font-family: 'AddictiveCaps';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/addictive/addictive-caps.woff") format("woff");
+}
+@font-face {
+    font-family: 'AddictiveRegular';
+    src: url("https://www.incyte.com/Portals/_default/skins/incytecorporate/fonts/addictive/addictive-regular.woff") format("woff");
+}
+
+/*Open Sans font import started*/
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff')
+}
+
+
+/*Lato Fonts imported*/
+@font-face {
+    font-family: 'Lato';
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/lato-regular-webfont.eot');
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/lato-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-regular-webfont.woff') format('woff'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-regular-webfont.ttf') format('truetype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-regular-webfont.svg#lato-regular-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Light';
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/lato-light-webfont.eot');
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/lato-light-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-light-webfont.otf') format('opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-light-webfont.woff') format('woff'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-light-webfont.ttf') format('truetype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-light-webfont.svg#lato-light-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato-Italic';
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/lato-italic-webfont.eot');
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/lato-italic-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-italic-webfont.otf') format('opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-italic-webfont.woff') format('woff'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-italic-webfont.ttf') format('truetype'), url('https://www.incyte.com/Portals/_default/skins/fonts/lato-italic-webfont.svg#lato-italic-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open-sans';
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/opensans-regular-webfont.eot');
+    src: url('https://www.incyte.com/Portals/_default/skins/fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/opensans-regular-webfont.otf') format('opentype'), url('https://www.incyte.com/Portals/_default/skins/fonts/opensans-regular-webfont.woff') format('woff'), url('https://www.incyte.com/Portals/_default/skins/fonts/opensans-regular-webfont.ttf') format('truetype'), url('https://www.incyte.com/Portals/_default/skins/fonts/opensans-regular-webfont.svg#opensans-regular-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
